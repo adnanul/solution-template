@@ -34,4 +34,7 @@ public class IO {
     public static void printLine(Object value) {
         System.out.println(value);
     }
+    public static void print(Object value) {
+        System.out.print(value);
+    }
 }
